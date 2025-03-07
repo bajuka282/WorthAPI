@@ -1,0 +1,7 @@
+name: WorthAPI
+version: '1.0-SNAPSHOT'
+main: org.example.h4dro.worthAPI.WorthAPI
+api-version: '1.21'
+commands:
+  worthapi:
+    default: op
